@@ -1,5 +1,5 @@
 # OpenChair
-![Logo](Logo23.png)
+![Logo](Logo.png)
 
 Este projeto é uma cadeira de rodas estilo a utilizada pelo famoso fisico Stephen Hawking. De código aberto, esta cadeira funciona por meio de movimentos faciais e comando de voz. Pode ser instalado, por pessoas leigas, em um notebook ou PC e alguns componentes eletrônicos.  
 
