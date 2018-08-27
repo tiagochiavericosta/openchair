@@ -20,4 +20,5 @@ Na pasta "RaspberryPi_OS" está a imagem para rodar em Raspberry Pi Model B, com
 ![rasp](rasp.jpg)
 
 Primeiros Testes:
-[![OpenChair, Testes iniciais](https://img.youtube.com/vi/t3ju4jU8yBo/0.jpg)](https://www.youtube.com/watch?v=t3ju4jU8yBo "OpenChair, Testes iniciais")
+
+[![OpenChair, Testes iniciais](video.png)](https://www.youtube.com/watch?v=t3ju4jU8yBo "OpenChair, Testes iniciais")
