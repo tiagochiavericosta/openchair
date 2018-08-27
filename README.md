@@ -18,3 +18,6 @@ Na pasta "Notebook_PC_OS' está armazenado a imagens do Sistema operacional em f
 Na pasta "RaspberryPi_OS" está a imagem para rodar em Raspberry Pi Model B, como alternativa de configuração e redução de custo.
 
 ![rasp](rasp.jpg)
+
+Primeiros Testes:
+[![OpenChair, Testes iniciais](https://img.youtube.com/vi/t3ju4jU8yBo/0.jpg)](https://www.youtube.com/watch?v=t3ju4jU8yBo "OpenChair, Testes iniciais")
