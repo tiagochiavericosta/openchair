@@ -7,7 +7,7 @@ This design is a wheelchair style used by famous physicist Stephen Hawking. Open
 
 ![StepenHawking](StephenHalking600x600.png)
 
-# Objetivo Geral
+## Objetivo Geral
 
 O objetivo principal do projeto é desenvolver uma cadeira de rodas gerenciada por uma assistente virtual, responsável pela interface-homem-maquina e que deverá acionar a cadeira por voz ou movimentos faciais. Quase todo o projeto deverá ser de código aberto. Este projetó contará com o apoio da Universidade de São Paulo, que deverá disponibilizar um protótipo dentro de aproximadamente 1 ano.
 
@@ -23,7 +23,7 @@ Primeiros Testes:
 
 [![OpenChair, Testes iniciais](video.png)](https://www.youtube.com/watch?v=t3ju4jU8yBo "OpenChair, Testes iniciais")
 
-##hardware Necessário:
+## hardware Necessário:
 Notebook, PC ou Raspberry pi 3 model B
 Relê
 Webcam de boa qualidade
