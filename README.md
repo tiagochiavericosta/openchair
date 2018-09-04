@@ -23,7 +23,7 @@ Primeiros Testes:
 
 [![OpenChair, Testes iniciais](video.png)](https://www.youtube.com/watch?v=t3ju4jU8yBo "OpenChair, Testes iniciais")
 
-## hardware Necessário:
+## Hardware Recomendado:
 Notebook, PC ou Raspberry pi 3 model B
 Relê
 Webcam de boa qualidade
