@@ -19,13 +19,13 @@ Na pasta "RaspberryPi_OS" está a imagem para rodar em Raspberry Pi Model B, com
 
 ![rasp](rasp.jpg)
 
-Primeiros Testes:
+## Primeiros Testes:
 
 [![OpenChair, Testes iniciais](video.png)](https://www.youtube.com/watch?v=t3ju4jU8yBo "OpenChair, Testes iniciais")
 
 ## Hardware Recomendado:
-Notebook, PC ou Raspberry pi 3 model B
-Relê
-Webcam de boa qualidade
-Um ou dois Motorres elétricos de corrente continua ou alternada para locomover a cadeira de rodas.
-Um motor de passo para a Direção da cadeira de rodas.
+* Notebook, PC ou Raspberry pi 3 model B
+* Relê
+* Webcam de boa qualidade
+* Um ou dois Motorres elétricos de corrente continua ou alternada para locomover a cadeira de rodas.
+* Um motor de passo para a Direção da cadeira de rodas.
