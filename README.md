@@ -5,8 +5,6 @@ Este projeto é uma cadeira de rodas estilo a utilizada pelo famoso fisico Steph
 
 This design is a wheelchair style used by famous physicist Stephen Hawking. Open source, this chair works by means of facial movements and voice command. It can be installed by lay people on a notebook or PC and some electronic components.
 
-![StepenHawking](StephenHalking600x600.png)
-
 ## Objetivo Geral
 
 O objetivo principal do projeto é desenvolver uma cadeira de rodas gerenciada por uma assistente virtual, responsável pela interface-homem-maquina e que deverá acionar a cadeira por voz ou movimentos faciais. Quase todo o projeto deverá ser de código aberto. Este projetó contará com o apoio da Universidade de São Paulo, que deverá disponibilizar um protótipo dentro de aproximadamente 1 ano.
@@ -28,4 +26,14 @@ Na pasta "RaspberryPi_OS" está a imagem para rodar em Raspberry Pi Model B, com
 * Relê
 * Webcam de boa qualidade
 * Um ou dois Motorres elétricos de corrente continua ou alternada para locomover a cadeira de rodas.
-* Um motor de passo para a Direção da cadeira de rodas.
+* Um motor de passo para o controle da direção da cadeira de rodas.
+
+## Idealizadores
+### Tiago Chiaveri da Costa
+Responśável pelo desenvolvimento do Sistema Operacional e softwares relacionados.
+
+### Rodrigo Moreton
+Responsável pelo desenvolvimento da parte eletrônica do Projeto
+
+## Apoiadores
+Este Projeto conta com a o apoio da Universidade de São Paulo - USP e Faculdade de Medicina de Ribeirão Preto.
