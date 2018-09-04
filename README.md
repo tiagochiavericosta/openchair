@@ -1,4 +1,4 @@
-# OpenChair
+#OpenChair
 ![Logo](Logo.png)
 
 Este projeto é uma cadeira de rodas estilo a utilizada pelo famoso fisico Stephen Hawking. De código aberto, esta cadeira funciona por meio de movimentos faciais e comando de voz. Pode ser instalado, por pessoas leigas, em um notebook ou PC e alguns componentes eletrônicos.  
@@ -22,3 +22,10 @@ Na pasta "RaspberryPi_OS" está a imagem para rodar em Raspberry Pi Model B, com
 Primeiros Testes:
 
 [![OpenChair, Testes iniciais](video.png)](https://www.youtube.com/watch?v=t3ju4jU8yBo "OpenChair, Testes iniciais")
+
+##hardware Necessário:
+Notebook, PC ou Raspberry pi 3 model B
+Relê
+Webcam de boa qualidade
+Um ou dois Motorres elétricos de corrente continua ou alternada para locomover a cadeira de rodas.
+Um motor de passo para a Direção da cadeira de rodas.
