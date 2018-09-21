@@ -31,9 +31,13 @@ Na pasta "RaspberryPi_OS" está a imagem para rodar em Raspberry Pi Model B, com
 ## Idealizadores
 ### Tiago Chiaveri da Costa
 Responśável pelo desenvolvimento do Sistema Operacional e softwares relacionados.
+Assistente de Pesquisa na Faculdade de Medicina de Ribeirão Preto.
+Auxilia a Drª. Prof.ª Gleici da Silva Castro Perdoná.
+
 
 ### Rodrigo Moreton
 Responsável pelo desenvolvimento da parte eletrônica do Projeto
 
 ## Apoiadores
-Este Projeto conta com a o apoio da Universidade de São Paulo - USP e Faculdade de Medicina de Ribeirão Preto.
+Este projeto conta agora com a o apoio da Universidade de São Paulo - USP e Faculdade de Medicina de Ribeirão Preto.
+http://www.fmrp.usp.br/
