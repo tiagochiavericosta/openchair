@@ -40,4 +40,8 @@ Responsável pelo desenvolvimento da parte eletrônica do Projeto
 
 ## Apoiadores
 Este projeto conta agora com a o apoio da Universidade de São Paulo - USP e Faculdade de Medicina de Ribeirão Preto.
-http://www.fmrp.usp.br/
+http://www.fmrp.usp.br
+
+## Últimas Notícias:
+
+Atualmente estamos levantando fundos para Viavilizar o primeiro protótipo. Em breve, divulgaremos aqui.
