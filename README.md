@@ -21,7 +21,7 @@ Na pasta "RaspberryPi_OS" está a imagem para rodar em Raspberry Pi Model B, com
 
 [![OpenChair, Testes iniciais](video.png)](https://www.youtube.com/watch?v=t3ju4jU8yBo "OpenChair, Testes iniciais")
 
-# ![Rosto](rosto.jpeg)
+# ![Rosto](Rosto.jpeg)
 # Comandos da cadeira de rodas por meio de expressões faciaís.
 A Cadeira de rodas deverá ser comandada por expressões faciais, assim o usuário poderá caminhar com a cadeira de rodas em todas as direções que desejar, mesmo que não possa falar.
 
